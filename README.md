@@ -1,4 +1,4 @@
-# Async_js
+# Machine Learning Model 
 ##Javascript Series
 know Callbacks, Promise and Aysnc Await
 
